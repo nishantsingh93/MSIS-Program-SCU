@@ -47,6 +47,11 @@
 
 **Claim: Why hire SCU Graduates?**
 
+* Data: The data for this Lab has been taken from the shared folder for the MSIS SCU Project.The link is given below:
+https://docs.google.com/spreadsheets/d/1jjNTzv5Eo47Jby1pBffN9goL-s6Z1tpBNNQqNicJgMM/edit#gid=0
+
+* Data Wrangling: The data wrangling steps have been written in the juypter notebook file.
+
 * Qualifier: The qualifier that I have chosen is the skills recruiters look for and SCU student have and companies in the bay hiring SCU graduates
 
 * Warrant: The warrant is discussed in the final Visualization section 
@@ -69,7 +74,8 @@ Discussion:
 
 
 ******************************************************************************************************************************
-## Road map with future enhancements:
+## Road map with Future Enhancements:
+
 1. Improvement -  Collect more data on the alumni job profile 
 * Benefit - A better map plot can be shown if the data is present as it bolsters the claim more and would show a lot of more companies 
 2. Improvement - Collect data to show different business segments that alumni are in 
