@@ -51,7 +51,7 @@
 
 ******************************************************************************************************************************
 ## Final Visualization 
-![dashboard](https://user-images.githubusercontent.com/25557540/32984137-3fb8efe4-cc55-11e7-8154-54becd4c4290.png)
+![dashboard](https://user-images.githubusercontent.com/25557540/32984175-3721d412-cc56-11e7-911b-c118e3169460.png)
 
 * Pros:
 
