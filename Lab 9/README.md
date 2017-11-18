@@ -43,11 +43,15 @@
 
 
 ## Lab 8: 
-
+* Audience: The audience for this data are the recruiters who are always looking to fill positions in their firms with qualified graduates  
 * Claim: Why hire SCU Graduates?
-* Qualifier: The qualifier that I have choosen is the student to teacher ratio, ranking of the universities in the bay, top skills and how selective is the program.
-* Warrant: 
-* Backing: 
+
+* Qualifier: The qualifier that I have chosen is the skills recruiters look for and SCU student have and companies in the bay hiring SCU graduates
+
+* Warrant: The warrant is discussed in the final Visualization section 
+ 
+* Backing: There are many notable graduates that have done very well after graduating from MSIS program. Most of the graduating batch have a job offer from famous tech companies before they graduate. The link to notable alumni can is given below:
+https://www.scu.edu/alumni/about/notable/business-and-engineering/
 
 ******************************************************************************************************************************
 ## Final Visualization 
@@ -80,6 +84,9 @@ Discussion:
 * https://www.petersons.com/graduate-schools/santa-clara-university-leavey-school-of-business-program-in-information-systems-000_10023886.aspx
 * https://www.mba.com/us/find-and-compare-schools/program-detail.aspx?ID=0a7caa08-c17a-409a-99b5-df4165af8247
 * http://www.mastersportal.eu/studies/64690/information-systems.html
+* https://www.forbes.com/colleges/santa-clara-university/
+* https://www.payscale.com/research/US/School=Santa_Clara_University/Salary
+* https://www.scu.edu/alumni/about/notable/business-and-engineering/
 
 
 
