@@ -65,8 +65,8 @@ Discussion:
 ******************************************************************************************************************************
 ## Road map with future enhancements:
 
-1. Improvement - 
-* Benfit -
+1. Improvement -  Collect more data on the alumni job profile 
+* Benefit - A better map plot can be shown if the data is present as it bolsters the claim more 
 2. Improvement - 
 * Benfit -
 3. Improvement -  
