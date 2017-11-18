@@ -44,7 +44,8 @@
 
 ## Lab 8: 
 * Audience: The audience for this data are the recruiters who are always looking to fill positions in their firms with qualified graduates  
-* Claim: Why hire SCU Graduates?
+
+**Claim: Why hire SCU Graduates?**
 
 * Qualifier: The qualifier that I have chosen is the skills recruiters look for and SCU student have and companies in the bay hiring SCU graduates
 
@@ -60,10 +61,11 @@ https://www.scu.edu/alumni/about/notable/business-and-engineering/
 Discussion: 
 
 1) The Visual shows top companies in the bay area that have been hiring MSIS students which can lead a recruiter to think that MSIS students are credible and have a good knowledge base 
-2) The visual now compares the top 10 skills from LinkedIn that recruiters look for in MSIS Graduates and the link that MSIS student have 
-3) There are some major changes from the last visual.
-4) Data to pixel ratio has been tried to keep as simple as can and so can be said about the clours 
-
+2) Working Average shows how many alumni are working in the companies
+3) MSIS students do also get hired for companies all over the world but the data represented here is to support the claim 
+4) The visual  also now compares the top 10 skills from LinkedIn that recruiters look for in MSIS Graduates and the skills that MSIS student possess
+5) Also now we can prove the earlier claim that 70% of skills that recruiters are looking for is present in graduates from SCU
+6) I have kept  data to pixel ratio as simple as possible to have a deeper impact on the audience 
 
 
 ******************************************************************************************************************************
