@@ -1,63 +1,64 @@
 ******************************************************************************************************************************
 
-# Lab Session - 7
+# Lab Session - 9
 
 ### Objective: Create a redesign Visulazation of Lab 6.
 
 ### Date: 18th Nov 2017
 
-### Tableau Visual link Link: ![dashboard 1 1](https://user-images.githubusercontent.com/25557540/32977366-e29f1ad2-cbe0-11e7-8247-2c284100b98e.png)
-
+### Tableau Visual link Link: 
 ******************************************************************************************************************************
 
 # Plan:
 
 ## Critique previous visualization:
 
-
-
+![dashboard 1 1](https://user-images.githubusercontent.com/25557540/32977366-e29f1ad2-cbe0-11e7-8247-2c284100b98e.png)
 
 #### Pros:
-
-* Easy to understand the charts 
-* Simple and efficient especially the first chart 
-* can understand why should we choose MSIS at SCU
+* The First Visual tells the viewer these are the skills that SCU student possess  
+* looking at the visualization the audience can see that SCU alumnus are placed in top companies 
+* The Caption informs the viewer that SCU graduates have 70% skill 
 
 #### Cons: 
-
-* Simple efficient and one clour charts needed 
-* Inference from the data, in a sense that what is the data actually telling us 
+* This dashboard is less for recruiters and more for future students 
+* The objective of the visualization is not satisfied by this visual 
+* Recruiter metrics needed 
+* The caption 70% of skills recruiters are looking for is possed by SCU graduates needs to be shown in the visual 
+* Data to pixel is not good, simple efficient colours must be used 
 
 
 ******************************************************************************************************************************
 
 
-## Objective of lab 5 - Use the collected data to design a fact sheet on Santa Clara University’s MSIS program
+## Objective of lab 6 - Use the collected data to design a dashboard on Santa Clara University’s MSIS program.
 
 ## Brief Summary:
 
-* Developed 5 metrics on the MSIS program.
+* Developed metrics for the MSIS program.
 * Evaluated and ranked the metrics for their suitability.
-* Choose top 3 metrics to  develop an intriguing visualizations.
+* Choose metrics that will be useful to the recruiters 
 
 ******************************************************************************************************************************
 
 
 ## Lab 8: 
 
-* Claim: SCU MSIS program is the best in the bay area...
+* Claim: Why hire SCU Graduates?
 * Qualifier: The qualifier that I have choosen is the student to teacher ratio, ranking of the universities in the bay, top skills and how selective is the program.
-* Warrant: A survey of top schools in the bay clearly refelcts SCU MSIS program as the best there is in the silicon valley.
-* Backing: The data on which the visualization is done clearly shows that the MSIS program @ SCU is the best in the silicon valley. I have compared three universities in the bay area and SCU MSIS program is ranked the top amongst them. I have also doen a comparision of student to teacher ratio which clearly reflects that SCU focuse on personal relationships between the student and the professor and that is why they have less students per professor. It is one of the main reason why student at SCU do well compared to their counterparts from other Universities. The job comparision that I did shows the top skills linkedin recruiters expect out MSIS grads and the top skills SCU students have when they graduate and it clearly shows that they have all the  skills that a manager is looking for
-
+* Warrant: 
+* Backing: 
 
 ******************************************************************************************************************************
 
 ## Road map with future enhancements:
 
-1. Get more data to analyze different universities in detail 
-2. Compare job profiles students attain when the graduate from these universities 
-3. Get data for hiring Manager showcasing  why they hire SCU students 
+1. Improvement - 
+* Benfit -
+2. Improvement - 
+* Benfit -
+3. Improvement -  
+* Benfit -
 
 ******************************************************************************************************************************
 
