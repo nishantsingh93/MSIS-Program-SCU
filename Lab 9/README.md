@@ -53,9 +53,14 @@
 ## Final Visualization 
 ![dashboard](https://user-images.githubusercontent.com/25557540/32984175-3721d412-cc56-11e7-911b-c118e3169460.png)
 
-* Pros:
+Discussion: 
 
-* Cons:
+1) The Visual shows top companies in the bay area that have been hiring MSIS students which can lead a recruiter to think that MSIS students are credible and have a good knowledge base 
+2) The visual now compares the top 10 skills from LinkedIn that recruiters look for in MSIS Graduates and the link that MSIS student have 
+3) There are some major changes from the last visual.
+4) Data to pixel ratio has been tried to keep as simple as can and so can be said about the clours 
+
+
 
 ******************************************************************************************************************************
 ## Road map with future enhancements:
