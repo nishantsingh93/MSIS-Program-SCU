@@ -6,7 +6,7 @@
 
 ### Date: 18th Nov 2017
 
-### Tableau Visual link Link: https://public.tableau.com/views/Lab9_7/Dashboard?:embed=y&:display_count=yes&publish=yes
+### Tableau Visual link Link: https://public.tableau.com/shared/SZ856TKCT?:display_count=yes
 ******************************************************************************************************************************
 
 # Plan:
