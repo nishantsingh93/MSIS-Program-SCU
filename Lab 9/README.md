@@ -64,13 +64,12 @@ Discussion:
 
 ******************************************************************************************************************************
 ## Road map with future enhancements:
-
 1. Improvement -  Collect more data on the alumni job profile 
-* Benefit - A better map plot can be shown if the data is present as it bolsters the claim more 
-2. Improvement - 
-* Benfit -
-3. Improvement -  
-* Benfit -
+* Benefit - A better map plot can be shown if the data is present as it bolsters the claim more and would show a lot of more companies 
+2. Improvement - Collect data to show different business segments that alumni are in 
+* Benefit - Again this will show the reach of the SCU network 
+3. Improvement - Add data to discuss the graduating class profile and any achievements  
+* Benefit - Seeing the graduating batch profile and potentials any achievement will the recruiters know easily will the graduates fit the profile 
 
 ******************************************************************************************************************************
 
